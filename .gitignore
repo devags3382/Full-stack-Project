@@ -1,0 +1,19 @@
+# Portables and Binaries
+node/
+maven/
+node_modules/
+target/
+dist/
+build/
+
+# Logs
+*.log
+*.log.*
+npm-debug.log*
+
+# OS and IDE
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.class
